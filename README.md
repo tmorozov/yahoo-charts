@@ -1,5 +1,6 @@
 # yahoo-charts
 
+allows to compare visually different stocks on the same screen
 
 ## Project Setup
 
